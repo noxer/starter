@@ -1,5 +1,4 @@
 [![GoDoc](https://godoc.org/github.com/noxer/starter?status.svg)](https://godoc.org/github.com/noxer/starter)
-[![codecov](https://codecov.io/gh/noxer/starter/branch/master/graph/badge.svg)](https://codecov.io/gh/noxer/starter)
 [![Go Report Card](https://goreportcard.com/badge/github.com/noxer/starter)](https://goreportcard.com/report/github.com/noxer/starter)
 
 # starter
