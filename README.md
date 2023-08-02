@@ -97,7 +97,7 @@ start := pistol.Go()
 
 Be aware that it may take some time for the workers to actually start, waking up a million runners may take 100ms.
 
-Although discuraged, you can reuse the pistol for the next run. This also means that runners that are late to call `Wait` will block even if `Go` had previously been called.
+Although discouraged, you can reuse the pistol for the next run. This also means that runners that are late to call `Wait` will block even if `Go` had previously been called.
 
 ## License
 MIT
